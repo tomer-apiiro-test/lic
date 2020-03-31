@@ -1,0 +1,66 @@
+{
+  "_args": [
+    [
+      "mat-file-upload@1.3.2",
+      "D:\\Facultate\\PIU\\Proiect\\piu-gamification"
+    ]
+  ],
+  "_from": "mat-file-upload@1.3.2",
+  "_id": "mat-file-upload@1.3.2",
+  "_inBundle": false,
+  "_integrity": "sha512-QsMeAWccy39Yhf0cHR96u6ihqY0VWNO78N6JcIHW9LZ5gkOK3GpHcihDiEW+b3WJXphdNIT2myD/ZEZtRYG9og==",
+  "_location": "/mat-file-upload",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "mat-file-upload@1.3.2",
+    "name": "mat-file-upload",
+    "escapedName": "mat-file-upload",
+    "rawSpec": "1.3.2",
+    "saveSpec": null,
+    "fetchSpec": "1.3.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/mat-file-upload/-/mat-file-upload-1.3.2.tgz",
+  "_spec": "1.3.2",
+  "_where": "D:\\Facultate\\PIU\\Proiect\\piu-gamification",
+  "bugs": {
+    "url": "https://github.com/bjsawyer/mat-file-upload/issues"
+  },
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "description": "A simple & configurable Angular Material file upload component.",
+  "es2015": "fesm2015/mat-file-upload.js",
+  "esm2015": "esm2015/mat-file-upload.js",
+  "esm5": "esm5/mat-file-upload.js",
+  "fesm2015": "fesm2015/mat-file-upload.js",
+  "fesm5": "fesm5/mat-file-upload.js",
+  "homepage": "https://bjsawyer.github.io/mat-file-upload/",
+  "keywords": [
+    "Angular",
+    "Material",
+    "File",
+    "Upload"
+  ],
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "main": "bundles/mat-file-upload.umd.js",
+  "metadata": "mat-file-upload.metadata.json",
+  "module": "fesm5/mat-file-upload.js",
+  "name": "mat-file-upload",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0",
+    "@angular/material": "^7.3.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjsawyer/mat-file-upload.git"
+  },
+  "sideEffects": false,
+  "typings": "mat-file-upload.d.ts",
+  "version": "1.3.2"
+}

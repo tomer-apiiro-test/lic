@@ -1,0 +1,61 @@
+{
+  "_from": "ngx-polygon-draw",
+  "_id": "ngx-polygon-draw@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-pEMTfe8dD15IaoUVjMYQOX1eBDQBzM+GhApCwjFoo95UCkHpGs92B2IkDZi43DHxwhwzLoIonlH6A1lJhx0P4w==",
+  "_location": "/ngx-polygon-draw",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ngx-polygon-draw",
+    "name": "ngx-polygon-draw",
+    "escapedName": "ngx-polygon-draw",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ngx-polygon-draw/-/ngx-polygon-draw-1.0.3.tgz",
+  "_shasum": "c224eff3e85b88bbd5285d52ff884700eb0ea373",
+  "_spec": "ngx-polygon-draw",
+  "_where": "D:\\Facultate\\Licenta Renata\\angular_client'\\src\\app",
+  "author": {
+    "name": "Malakhov Dmitriy"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "deprecated": false,
+  "description": "Simple lightweight library to draw polygons over images. This library was created to markup areas on the photo, where the computer vision algorithms will track events. Any other usecase is appreciated, contact me on issues.",
+  "es2015": "fesm2015/ngx-polygon-draw.js",
+  "esm2015": "esm2015/ngx-polygon-draw.js",
+  "esm5": "esm5/ngx-polygon-draw.js",
+  "fesm2015": "fesm2015/ngx-polygon-draw.js",
+  "fesm5": "fesm5/ngx-polygon-draw.js",
+  "keywords": [
+    "angular",
+    "component",
+    "typescript",
+    "canvas",
+    "images",
+    "markup",
+    "draw"
+  ],
+  "license": "MIT",
+  "main": "bundles/ngx-polygon-draw.umd.js",
+  "metadata": "ngx-polygon-draw.metadata.json",
+  "module": "fesm5/ngx-polygon-draw.js",
+  "name": "ngx-polygon-draw",
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0"
+  },
+  "sideEffects": false,
+  "typings": "ngx-polygon-draw.d.ts",
+  "version": "1.0.3"
+}

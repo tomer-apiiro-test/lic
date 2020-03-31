@@ -1,0 +1,51 @@
+{
+  "_args": [
+    [
+      "@yellowspot/ng-truncate@1.5.1",
+      "D:\\Facultate\\PIU\\Proiect\\piu-gamification"
+    ]
+  ],
+  "_from": "@yellowspot/ng-truncate@1.5.1",
+  "_id": "@yellowspot/ng-truncate@1.5.1",
+  "_inBundle": false,
+  "_integrity": "sha512-tAVlVqz1XGAbL3HKg8i/Sy++iilhvoujNkwE34IsVQ+ndiOJEgSmj8OntrsfrkBL2KlOs6L507nUz4MWzh+G0A==",
+  "_location": "/@yellowspot/ng-truncate",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@yellowspot/ng-truncate@1.5.1",
+    "name": "@yellowspot/ng-truncate",
+    "escapedName": "@yellowspot%2fng-truncate",
+    "scope": "@yellowspot",
+    "rawSpec": "1.5.1",
+    "saveSpec": null,
+    "fetchSpec": "1.5.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@yellowspot/ng-truncate/-/ng-truncate-1.5.1.tgz",
+  "_spec": "1.5.1",
+  "_where": "D:\\Facultate\\PIU\\Proiect\\piu-gamification",
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "description": "[@yellowspot/ng-truncate](https://www.npmjs.com/package/@yellowspot/ng-truncate)",
+  "es2015": "fesm2015/yellowspot-ng-truncate.js",
+  "esm2015": "esm2015/yellowspot-ng-truncate.js",
+  "esm5": "esm5/yellowspot-ng-truncate.js",
+  "fesm2015": "fesm2015/yellowspot-ng-truncate.js",
+  "fesm5": "fesm5/yellowspot-ng-truncate.js",
+  "main": "bundles/yellowspot-ng-truncate.umd.js",
+  "metadata": "yellowspot-ng-truncate.metadata.json",
+  "module": "fesm5/yellowspot-ng-truncate.js",
+  "name": "@yellowspot/ng-truncate",
+  "peerDependencies": {
+    "@angular/common": ">= 4.0.0",
+    "@angular/core": ">= 4.0.0"
+  },
+  "sideEffects": false,
+  "typings": "yellowspot-ng-truncate.d.ts",
+  "version": "1.5.1"
+}
